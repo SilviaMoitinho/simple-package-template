@@ -1,9 +1,4 @@
-# package_name
-
-Description. 
-The package package_name is used to:
-	- 
-	-
+# package
 
 ## Installation
 
@@ -21,7 +16,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+SILVIA
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
